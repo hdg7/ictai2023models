@@ -1,4 +1,4 @@
-# ictai2023models
+# ICTAI 2023 Models Generation and Evaluation
 
 This repo is to generate the models for the following paper:
 ```
