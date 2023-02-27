@@ -1,0 +1,11 @@
+Tree
+KNN
+LDiscrimination
+NB
+SVM
+LRegression
+RandomForest
+GradientBoosting
+AdaBoost
+XGBoost
+NNet
