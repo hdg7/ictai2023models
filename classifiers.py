@@ -64,7 +64,7 @@ def training(X_train, Y_train):
                 print("Time: ",stop-start)
         return results, names, times,models
 
-Set up for the dierctories
+#Set up for the dierctories
 os.mkdir("models")
 os.mkdir("results")
 os.mkdir("times")
